@@ -17,6 +17,7 @@
 ####
 # Be My Eyes specific files
 BeMyEyes/Source/BMEGlobal.h
+BeMyEyes/Source/BMEGlobal.temp.h
  
 #####
 # OS X temporary files that should never be committed
@@ -138,3 +139,4 @@ xcuserdata
 # and should therefore not be checked into the VCS.
 
 *.xccheckout
+
